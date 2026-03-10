@@ -1,0 +1,4 @@
+Jonathan Lopez Sanchez
+10/03/2026
+Poder manear funciones basicas de github.
+Un pull request es una peticion que haces para que el duño del proyecto revise los cambios que hiciste en tus ramas y los integre a la rama principal.

@@ -1,0 +1,3 @@
+Git conflicts
+Jonathan Lopez Sanchez
+Version: 1.0
